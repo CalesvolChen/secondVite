@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="宝宝么么么" />
+  <span>11111</span>
 </template>
 
 <script setup>
